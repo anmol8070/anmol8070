@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
 
-<div align="center"> <img src="https://github.com/anmol8070/anmol8070/blob/main/_LinkedIn%20Banner.png" width="500" height="135"> </div>
+<div align="center"> <img src="https://github.com/anmol8070/anmol8070/blob/main/_LinkedIn%20Banner.png" width="2000" height="135"> </div>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
