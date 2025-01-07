@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
 
-<div align="center"> <img src="https://drive.google.com/file/d/1bAFCbPskJMftL5-OgVI0TScSMz9UoQog/view?usp=drive_link"> </div>
+<div align="center"> <img src="https://www.canva.com/design/DAGbiHYF5XI/xfZG9s43NawtK8AWJkGPBw/watch?utm_content=DAGbiHYF5XI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2f003e9e53" height="135"> </div>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
