@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmol8070&label=Profile%20views&color=0e75b6&style=flat" alt="anmol8070" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol8070&show_icons=true&locale=en&layout=compact" alt="anmol8070"  height="150" /></p>
+<p>  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavpatil2734&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmol8070&show_icons=true&locale=en" alt="anmol8070"  height="150"/></p>
 
@@ -12,7 +12,7 @@
   <a href="mailto:anmolnandavadekar@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/anmol-nandavadekar" target="_blank">
+  <a href="https://www.linkedin.com/in/anmol-nandavadekar-263b8b257/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://www.hackerrank.com/anmolnandavadekar" target="_blank">
