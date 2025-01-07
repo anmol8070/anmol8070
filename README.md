@@ -46,4 +46,4 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmol8070&" alt="anmol8070" height="150" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmol8070&" alt="anmol8070" height="150" /></p>
