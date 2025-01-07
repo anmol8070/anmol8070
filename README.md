@@ -51,7 +51,7 @@
 </div>
 
 <p align="center">
-    <img src="https://github.com/anmol8070/anmol8070/blob/main/gif3.gif" height="150" />
-   <img src="https://github.com/anmol8070/anmol8070/blob/main/gif4.gif" height="150" />
+    <img src="https://github.com/anmol8070/anmol8070/blob/main/gif3.gif" height="250" />
+   <img src="https://github.com/anmol8070/anmol8070/blob/main/gif4.gif" height="250" />
 </p>
 
