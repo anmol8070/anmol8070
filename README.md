@@ -5,7 +5,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 #### **Visitor Count**
- ![Visitor Count](https://profile-counter.glitch.me/{devSouvik}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{anmol8070}/count.svg)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anmol8070&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
