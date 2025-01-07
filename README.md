@@ -43,4 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="dart logo" />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmol8070&" alt="anmol8070" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol8070" alt="GitHub Streak Stats for anmol8070">
+</p>
+
