@@ -55,6 +55,7 @@ style="filter: invert(1) hue-rotate(180deg);">
 </div>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol8070" alt="GitHub Streak Stats for anmol8070">
+    <img src="https://github.com/anmol8070/anmol8070/blob/main/gif3.gif" height="150" />
+   <img src="https://github.com/anmol8070/anmol8070/blob/main/gif4.gif" height="150" />
 </p>
 
