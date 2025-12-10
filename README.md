@@ -41,13 +41,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo" />
   <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwind css logo" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo" />
 
   <img src="https://skillicons.dev/icons?i=laravel" height="32" alt="laravel logo" />
   <img src="https://skillicons.dev/icons?i=php" height="32" alt="php logo" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jsp_Logo.svg/512px-Jsp_Logo.svg.png" height="32" alt="jsp logo" />
-
   
   <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo" />
