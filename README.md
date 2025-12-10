@@ -46,8 +46,8 @@
   <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="32" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="dart logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=flutter" height="32" alt="flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="dart logo" /> -->
 </div>
 
 <p align="center">
