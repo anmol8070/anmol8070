@@ -46,7 +46,8 @@
   <img src="https://skillicons.dev/icons?i=laravel" height="32" alt="laravel logo" />
   <img src="https://skillicons.dev/icons?i=php" height="32" alt="php logo" />
 
-  <img src="https://cdn.simpleicons.org/jsp/000000" height="32" alt="jsp logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jsp_Logo.svg/512px-Jsp_Logo.svg.png" height="32" alt="jsp logo" />
+
   
   <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo" />
