@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Anmol</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00A8FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Anmol" />
+</h1>
 
 <div align="center"> <img src="https://github.com/anmol8070/anmol8070/blob/main/_LinkedIn%20Banner.png" width="2000" height="280"> </div>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00FFAA&center=true&vCenter=true&width=600&lines=A+passionate+Full+Stack+developer+from+India" />
+</h3>
 
 #### **Visitor Count**
-![Visitor Count](https://profile-counter.glitch.me/{anmol8070}/count.svg)
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmol8070&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol8070&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-
+  <img src="https://komarev.com/ghpvc/?username=anmol8070&style=for-the-badge&color=orange" width="200" />
 </div>
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
