@@ -35,19 +35,28 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="32" alt="c logo" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="cplusplus logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=c" height="32" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="cplusplus logo" /> -->
+  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo" />
   <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo" />
+
+  <img src="https://skillicons.dev/icons?i=laravel" height="32" alt="laravel logo" />
+  <img src="https://skillicons.dev/icons?i=php" height="32" alt="php logo" />
+
+  <img src="https://cdn.simpleicons.org/jsp/000000" height="32" alt="jsp logo" />
+  
   <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo" />
   <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo" />
+  
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo" />
   <!-- <img src="https://skillicons.dev/icons?i=flutter" height="32" alt="flutter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="dart logo" /> -->
+  
 </div>
 
 <p align="center">
