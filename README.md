@@ -2,145 +2,78 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00A8FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Anmol" />
 </h1>
 
-<div align="center">
-  <img src="https://github.com/anmol8070/anmol8070/blob/main/_LinkedIn%20Banner.png" width="2000" height="280">
-</div>
+<div align="center"> <img src="https://github.com/anmol8070/anmol8070/blob/main/_LinkedIn%20Banner.png" width="2000" height="280"> </div>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00FFAA&center=true&vCenter=true&width=600&lines=A+passionate+Full+Stack+developer+from+India" />
 </h3>
 
----
-
-#### 👀 Visitor Count
-
+#### **Visitor Count**
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anmol8070&style=for-the-badge&color=orange" width="200" />
 </div>
 
----
 
-<h3 align="left">🤝 Connect with me:</h3>
 
+
+
+
+<h3 align="left">Connect with me:</h3>
 <div align="left">
-
   <a href="mailto:anmolnandavadekar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
-         height="35"
-         alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-
   <a href="https://www.linkedin.com/in/anmol-nandavadekar-263b8b257/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
-         height="35"
-         alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-
   <a href="https://www.hackerrank.com/anmolnandavadekar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge"
-         height="35"
-         alt="hackerrank logo" />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
   </a>
-
   <a href="https://www.instagram.com/__anm0l____" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
-         height="35"
-         alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-
   <a href="https://twitter.com/@anandavade3086" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge"
-         height="35"
-         alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
-
 </div>
 
----
-
-<h3 align="left">💻 Languages and Tools:</h3>
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
+  <!-- <img src="https://skillicons.dev/icons?i=c" height="32" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="cplusplus logo" /> -->
+  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwind css logo" />
 
-  <img src="https://skillicons.dev/icons?i=java"
-       height="32"
-       alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       height="32"
-       alt="python logo" />
-
-  <img src="https://skillicons.dev/icons?i=html"
-       height="32"
-       alt="html5 logo" />
-
-  <img src="https://skillicons.dev/icons?i=css"
-       height="32"
-       alt="css3 logo" />
-
-  <img src="https://skillicons.dev/icons?i=tailwind"
-       height="32"
-       alt="tailwind css logo" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-       height="32"
-       alt="javascript logo" />
-
-  <img src="https://skillicons.dev/icons?i=laravel"
-       height="32"
-       alt="laravel logo" />
-
-  <img src="https://skillicons.dev/icons?i=php"
-       height="32"
-       alt="php logo" />
-
-  <img src="https://skillicons.dev/icons?i=react"
-       height="32"
-       alt="react logo" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-       height="32"
-       alt="nodejs logo" />
-
-  <img src="https://skillicons.dev/icons?i=express"
-       height="32"
-       alt="express logo" />
-
-  <img src="https://cdn.simpleicons.org/mysql/4479A1"
-       height="32"
-       alt="mysql logo" />
-
-  <img src="https://skillicons.dev/icons?i=mongodb"
-       height="32"
-       alt="mongodb logo" />
-
+  <img src="https://skillicons.dev/icons?i=laravel" height="32" alt="laravel logo" />
+  <img src="https://skillicons.dev/icons?i=php" height="32" alt="php logo" />
+  
+  <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo" />
+  
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=flutter" height="32" alt="flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="dart logo" /> -->
+  
 </div>
-
----
 
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/anmol8070/anmol8070/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmol8070/anmol8070/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmol8070/anmol8070/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anmol8070/anmol8070/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
----
-
-<h2 align="center">🎬 Projects & Creativity</h2>
-
 <p align="center">
-  <img
-    src="https://github.com/anmol8070/anmol8070/blob/main/gif3.gif"
-    height="250"
-    alt="Project animation 1"
-  />
-
-  <img
-    src="https://github.com/anmol8070/anmol8070/blob/main/gif4.gif"
-    height="250"
-    alt="Project animation 2"
-  />
+    <img src="https://github.com/anmol8070/anmol8070/blob/main/gif3.gif" height="250" />
+   <img src="https://github.com/anmol8070/anmol8070/blob/main/gif4.gif" height="250" /> 
 </p>
