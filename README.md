@@ -63,6 +63,12 @@
   
 </div>
 
+<h2 align="center">📊 GitHub Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anmol8070&theme=react-dark" alt="Anmol's GitHub Contribution Graph" />
+</p>
+
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
